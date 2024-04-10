@@ -1,0 +1,22 @@
+.dictionary-container {
+    padding: 6%;
+   display: flex;
+   justify-content: space-between;
+}
+
+input {
+    padding: 5px;
+}
+
+input:hover {
+    opacity: 1;
+}
+
+
+.search-icon {
+    position: absolute;
+    right: 3em;
+    padding: 1px;
+    margin-top: 5px;
+    cursor: pointer;
+}
